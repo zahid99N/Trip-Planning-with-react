@@ -1,0 +1,28 @@
+{
+    "trips":[
+        {
+            "title": "2 night Stay in London",
+            "price": "195$",
+            "id": "1",
+            "loc":"europe"
+        },
+        {
+            "title": "3 night Stay in Japan",
+            "price": "250$",
+            "id": "2",
+            "loc": "europe"
+        },
+        {
+            "title": "4 night Stay in Maldivs",
+            "price": "251$",
+            "id": "3",
+            "loc": "europe"
+        },
+        {
+            "title": "5 night Stay in Paris",
+            "price": "520$",
+            "id": "4",
+            "loc": "america"
+        }
+    ]
+}
